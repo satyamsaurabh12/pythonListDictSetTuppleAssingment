@@ -23,4 +23,5 @@ print(mylist)
 print("remove the word by remove method\n")
 mylist.remove(456)
 print(mylist)
-
+print(type(mylist))
+print("Done..............")
